@@ -9,4 +9,5 @@ var difference = function(x, y) {
 };
 
 difference(5, 7);
+
 console.log("The answer is", + result);
