@@ -7,4 +7,3 @@ var sum = function(x, y) {
 
 sum(5, 7);
 console.log("The answer is", + result);
-
